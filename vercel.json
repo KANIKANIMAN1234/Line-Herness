@@ -1,0 +1,5 @@
+{
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm deploy:web",
+  "outputDirectory": "apps/web/out"
+}
